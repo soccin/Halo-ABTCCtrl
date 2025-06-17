@@ -2,7 +2,7 @@
 # Analysis specific settings
 #
 
-studyName: ABTCCtrl
+studyName: ABTC_OnSlideControls
 
 setName: set01
 DATA_ROOT: /juno/bic/work/shared/Multiomyx/Projects/ABTC/Controls
