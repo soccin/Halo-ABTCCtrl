@@ -13,9 +13,9 @@ HALOX_GITVERSION: v10_250616
 # Phase-I metadata file; select version to use
 #
 
-SAMPLES: ${studyName}_Samples__V1
+SAMPLES: ${studyName}_Samples__V0
 MARKERS: ${studyName}_Markers__V0
-FOVS: ${studyName}_FOVs__V1
+FOVS: ${studyName}_FOVs__V0
 CELLTYPES: ${studyName}_CellTypes__V0
 
 #
